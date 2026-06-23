@@ -1,0 +1,79 @@
+{
+    "artifacts": [
+        {
+            "hash": "53383ecebe71a354e2ff260ee9274cef8e9bcbb5f21bd1beb4ac363f10a433eb",
+            "name": "Fortune-fat.jar",
+            "path": "FORTUNE_JAR_LINK",
+            "size": 57767422
+        }
+    ],
+    "clientJvm17Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "clientJvm17MacArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+    ],
+    "clientJvm9Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "clientJvmArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherJvm11Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherJvm11WindowsArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherJvm17Arguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "launcherJvm17MacArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500",
+        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
+    ],
+    "launcherJvm17WindowsArguments": [
+        "-XX:+DisableAttachMechanism",
+        "-Drunelite.launcher.nojvm=true",
+        "-Xmx768m",
+        "-Xss2m",
+        "-XX:CompileThreshold=1500"
+    ],
+    "version": "0.0.1"
+}
