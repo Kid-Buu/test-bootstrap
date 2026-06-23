@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "53383ecebe71a354e2ff260ee9274cef8e9bcbb5f21bd1beb4ac363f10a433eb",
+            "hash": "172a9dd69a498bc341e84e4a9827714a166ca826dc1b850086c3eb26320ce456",
             "name": "Fortune-fat.jar",
             "path": "https://raw.githubusercontent.com/Kid-Buu/test-bootstrap/main/Fortune-fat.jar",
-            "size": 57767422
+            "size": 57793365
         }
     ],
     "clientJvm17Arguments": [
